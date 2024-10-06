@@ -1,3 +1,3 @@
 ## Hello, Git!
 
-- I amadding this fro 'fastswicth-branch'
+- I am adding this from 'feature-branch'
